@@ -1,2 +1,3 @@
 # SwapOnBtrfs
-Shell script to create a Swap file on Btrfs system disk
+Shell script to create a Swap file on Btrfs system disk.
+> Run with sudo privileges ```sh SwapOnBtrfs.sh```
